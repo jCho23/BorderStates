@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{775E2FFB-8705-4059-8202-B8050C315590}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BorderStates/Tests.cs">
+    <Files>
+      <File FileName="BorderStates/Tests.cs" Line="67" Column="4" />
+      <File FileName="BorderStates/AppInitializer.cs" Line="33" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="BorderStates" expanded="True">
+            <Node name="BorderStates" expanded="True">
+              <Node name="BorderStates" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="FirstTest" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BorderStates PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
